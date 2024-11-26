@@ -1,0 +1,16 @@
+{
+	"name": "sknkwoxs/wpsvelte",
+	"description": "WordPress theme with svelte components",
+	"homepage": "https://github.com/sknkwoxs/wpsvelte",
+	"keywords": [
+		"wordpress",
+    "svelte"
+	],
+	"license": "GPL-2.0+",
+	"type": "wordpress-theme",
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
+	}
+}
