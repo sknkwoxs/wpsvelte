@@ -1,0 +1,33 @@
+{
+  "name": "wpsvelte",
+  "version": "1.0.0",
+  "description": "A WordPress theme built with Svelte.",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [
+    "rollup",
+    "sknk",
+    "tailwindcss"
+  ],
+  "author": "JS",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.1",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@rollup/plugin-terser": "^0.2.1",
+    "@types/alpinejs": "^3.13.10",
+    "rollup-plugin-circular-dependencies": "^1.1.2",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-svelte": "^7.2.2",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "svelte": "^5.2.4",
+    "svelte-preprocess": "^6.0.3"
+  }
+}
