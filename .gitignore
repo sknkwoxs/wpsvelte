@@ -130,3 +130,6 @@ out
 
 # ddev
 .ddev
+
+# Phpstorm
+.idea
