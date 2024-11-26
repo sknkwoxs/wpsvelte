@@ -4,8 +4,12 @@
 	"homepage": "https://github.com/sknkwoxs/wpsvelte",
 	"keywords": [
 		"wordpress",
-    "svelte"
+    		"svelte"
 	],
+	"require": {
+		"composer/installers": "^2.2",
+		"timber/timber": "^2.0.0"
+	},
 	"license": "GPL-2.0+",
 	"type": "wordpress-theme",
 	"config": {
