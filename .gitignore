@@ -136,3 +136,4 @@ out
 
 # Composer
 vendor
+composer.lock
