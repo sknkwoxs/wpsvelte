@@ -1,1 +1,3 @@
 <?php
+
+Timber\Timber::init();;
