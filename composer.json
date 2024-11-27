@@ -16,9 +16,7 @@
     "php": ">=8.0",
     "composer/installers": "^2.2",
     "timber/timber": "^2.0.0",
-    "wpengine/advanced-custom-fields-pro": "*"
-  },
-  "require-dev": {
+    "wpengine/advanced-custom-fields-pro": "*",
     "djboris88/timber-debugger": "^1.1",
     "hellonico/timber-dump-extension": "^1.0"
   },
