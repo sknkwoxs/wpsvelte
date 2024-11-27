@@ -18,6 +18,10 @@
     "timber/timber": "^2.0.0",
     "wpengine/advanced-custom-fields-pro": "*"
   },
+  "require-dev": {
+    "djboris88/timber-debugger": "^1.1",
+    "hellonico/timber-dump-extension": "^1.0"
+  },
   "license": "GPL-2.0+",
   "type": "wordpress-theme",
   "config": {
