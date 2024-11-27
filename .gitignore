@@ -133,3 +133,6 @@ out
 
 # Phpstorm
 .idea
+
+# Composer
+vendor
